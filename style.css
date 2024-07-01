@@ -133,3 +133,29 @@ img{
     margin-bottom: 2rem;
 }
 
+@media  (min-width:1024px) {
+    .page-header{
+        font-size: 22px;
+    }
+
+    .section-data{
+        width: 50%;
+        margin: auto;
+    }
+    .goals-section{
+        width: 50%;
+        margin: auto;
+        margin-top: 5rem;
+        margin-bottom: 4rem;
+    }
+    .goals{
+        padding: 2rem;
+        font-size: 20px;
+    }
+    .goal-header{
+        font-size: 26px;
+    }
+    .links{
+        margin-bottom: 1rem;
+    }
+}
