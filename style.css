@@ -57,13 +57,12 @@ body{
     margin: auto;
     height: 150px;
    width: 150px;
-    border-radius: 100%;
  overflow: hidden;
   
 }
 
 img{
-    max-width: 100%;
+    width: auto;
     height: auto;
     display: block;
 }
